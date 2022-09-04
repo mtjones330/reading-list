@@ -2,6 +2,7 @@
 - Richard Rusczyk. *Introduction to Algebra*
 - Henry M. Robert III et al. *Robert's Rules of Order Newly Revised in Brief*. 3rd ed.
 - Franz Kafka. *The Castle*.
+- Noam Nisan, and Shimon Schocken. *The Elements of Computing Systems: Building a Modern Computer from First Princpiles*.
 
 # Literature
 - James Lovelock. *Novacene: The Coming Age of Hyperintelligence*.
