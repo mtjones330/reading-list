@@ -1,8 +1,23 @@
-# Reading
+# Currently Reading
 - Richard Rusczyk. *Introduction to Algebra*
 - Henry M. Robert III et al. *Robert's Rules of Order Newly Revised in Brief*. 3rd ed.
 - Franz Kafka. *The Castle*.
 - Noam Nisan, and Shimon Schocken. *The Elements of Computing Systems: Building a Modern Computer from First Princpiles*.
+
+# Authors
+- Theodore Sturgen
+- Robert Heinlein
+- Sartre
+- Burroughs
+- Shelley
+- Poe
+- Oscar Wilde
+- Anatole France
+- Charles Baudelaire
+- Andre Gide
+
+# Competitive Programming
+- Felix Halim et al. *Competitive Programming 4: The Lower Bound of Programming Contests in the 2020s*.
 
 # Literature
 - James Lovelock. *Novacene: The Coming Age of Hyperintelligence*.
@@ -52,11 +67,6 @@
 - Mary Shelley. *Frankenstein*.
 - Margaret Atwood. *The Handmaid's Tale*.
 
-# Software Engineering
-- Robertro Vitillo. *Understanding Distributed Systems*.
-- Martin Kleppmann. *Designing Data-Intensive Applications*.
-- Gergely Orosz. *The Tech Resume Inside Out*.
-
 # Math
 - David Patrick. *Introduction to Counting and Probability*
 - Richard Rusczyk. *Introduction to Geometry*.
@@ -67,20 +77,10 @@
 - David Patrick. *Calculus*.
 - Michael Spivak. *Calculus*.
 
-# Competitive Programming
-- Felix Halim et al. *Competitive Programming 4: The Lower Bound of Programming Contests in the 2020s*.
-
-# Authors
-- Theodore Sturgen
-- Robert Heinlein
-- Sartre
-- Burroughs
-- Shelley
-- Poe
-- Oscar Wilde
-- Anatole France
-- Charles Baudelaire
-- Andre Gide
+# Software Engineering
+- Robertro Vitillo. *Understanding Distributed Systems*.
+- Martin Kleppmann. *Designing Data-Intensive Applications*.
+- Gergely Orosz. *The Tech Resume Inside Out*.
 
 # Read 2022
 - Sheldon Kopp. *If You Meet the Buddha on the Road, Kill Him! The Pilgrimage of Psychotherapy Patients*.
