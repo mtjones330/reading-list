@@ -93,3 +93,5 @@
 - Richard Rusczyk et al. *Prealgebra*.
 - William S. Burroughs. *Junky: The Definitive Text of "Junk"*.
 - Herman Melville. *Bartleby, the Scrivener: A Story of Wall Street*.
+- Ryūnosuke Akutagawa. *In a Grove*.
+- Ryūnosuke Akutagawa. *Rashomon*.
