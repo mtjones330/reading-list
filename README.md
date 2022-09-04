@@ -56,7 +56,6 @@
 - Robertro Vitillo. *Understanding Distributed Systems*.
 - Martin Kleppmann. *Designing Data-Intensive Applications*.
 - Gergely Orosz. *The Tech Resume Inside Out*.
-- Felix Halim et al. *Competitive Programming 4: The Lower Bound of Programming Contests in the 2020s*.
 
 # Math
 - David Patrick. *Introduction to Counting and Probability*
@@ -67,6 +66,9 @@
 - Richard Rusczyk. *Precalculus*.
 - David Patrick. *Calculus*.
 - Michael Spivak. *Calculus*.
+
+# Competitive Programming
+- Felix Halim et al. *Competitive Programming 4: The Lower Bound of Programming Contests in the 2020s*.
 
 # Authors
 - Theodore Sturgen
