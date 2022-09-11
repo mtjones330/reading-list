@@ -20,6 +20,7 @@
 - Felix Halim et al. *Competitive Programming 4: The Lower Bound of Programming Contests in the 2020s*.
 
 # Literature
+- Mark Z. Danielewski. *House of Leaves*.
 - Fredrik Backman. *A Man Called Ove*.
 - James Lovelock. *Novacene: The Coming Age of Hyperintelligence*.
 - Herman Melville. *Benito Cereno*.
